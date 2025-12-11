@@ -11217,5 +11217,12 @@ orangeclickmedia.com,c25mob2,reseller
 sharethrough.com,inexmllk,reseller,d53b998a7bd4ecd2
 freewheel.tv,534465-r-523319,reseller
 media.net,8cuiv8d19,reseller
-
+performist.net,100048,direct
+pubmatic.com,166212,reseller,5d62403b186f2ace
+rightxchange.com,rexadg293,direct
+programmaticians.com,pgadg293,direct
+ogury.com,38e06767-e6be-4913-9e7f-2bccd258f814,reseller
+biddigi.com,adg293,direct
+eskimi.com,2020001208,direct
+auxoads.com,327b1,direct
 
